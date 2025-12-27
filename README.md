@@ -9,7 +9,7 @@ A modern support ticket management system built with React, TypeScript, and Tail
 
 ##  Live Demo
 
-[View Live Application](https://your-deployment-url.vercel.app)
+[View Live Application](https://ucs-tau.vercel.app/)
 
 ##  Features
 
@@ -48,7 +48,7 @@ A modern support ticket management system built with React, TypeScript, and Tail
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ucs-service-desk.git
+   git clone https://github.com/Malindup2/UCS.git
    cd ucs-service-desk/frontend
    ```
 
